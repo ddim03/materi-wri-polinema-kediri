@@ -1,5 +1,5 @@
 
-# Materi Pelatihan Dasar Pemrograman Python
+# Dasar Pemrograman Python
 
 ## 1. Setup Environment
 - **Instalasi Python**: 
@@ -178,5 +178,3 @@
      hapus_siswa("Andi")
      tampilkan_siswa()
      ```
-
-Selamat mengajar! Semoga sukses dengan materi ini!
